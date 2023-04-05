@@ -11,6 +11,7 @@ Welcome to our Game Store REST API project! Our team has developed a comprehensi
 3. [Getting Started](#getting-started)
 4. [API Endpoints](#api-endpoints)
 5. [Testing](#testing)
+6. [API Deployed in AWS](#AWS)
 
 
 ## Features
@@ -83,6 +84,12 @@ To run the tests for the Game Store REST API, execute the following command:
 mvn test
 ```
 
+
+## AWS
+Here is the link for the AWS deployed API!:
+http://gamestore-env.eba-6mpumf5p.us-east-2.elasticbeanstalk.com/
+
+## Video
 
 
 
