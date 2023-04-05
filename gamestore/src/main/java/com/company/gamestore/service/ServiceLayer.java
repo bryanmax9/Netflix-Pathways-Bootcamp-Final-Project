@@ -119,7 +119,6 @@ public class ServiceLayer {
 
     @Transactional
     public InvoiceViewModel saveInvoice(InvoiceViewModel viewModel){
-        System.out.println("Making changes to the Invoice");
 
         //initialize tax
         BigDecimal taxRate = null;
