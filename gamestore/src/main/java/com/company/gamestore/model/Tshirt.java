@@ -15,7 +15,7 @@ import java.util.Objects;
 public class Tshirt {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "tshirt_id")
     private int tShirtId;
 
