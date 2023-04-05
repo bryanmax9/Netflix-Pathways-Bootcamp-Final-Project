@@ -63,16 +63,16 @@ public class InvoiceControllerTest {
         invoice.setZipcode("12345");
         invoice.setItemType("Game");
         invoice.setItemId(12);
-        BigDecimal unitPrice = new BigDecimal(59.99);
+        BigDecimal unitPrice = new BigDecimal("59.99");
         invoice.setUnitPrice(unitPrice);
         invoice.setQuantity(1);
-        BigDecimal subTotal = new BigDecimal(59.99);
+        BigDecimal subTotal = new BigDecimal("59.99");
         invoice.setSubtotal(subTotal);
-        BigDecimal tax = new BigDecimal(3.5994);
+        BigDecimal tax = new BigDecimal("3.5994");
         invoice.setTax(tax);
-        BigDecimal processingFee = new BigDecimal(1.49);
+        BigDecimal processingFee = new BigDecimal("1.49");
         invoice.setProcessingFee(processingFee);
-        BigDecimal total = new BigDecimal(65.0794);
+        BigDecimal total = new BigDecimal("65.0794");
         invoice.setTotal(total);
 
 
