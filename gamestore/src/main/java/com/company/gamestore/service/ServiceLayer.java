@@ -65,6 +65,7 @@ public class ServiceLayer {
         return consoleRepository.findAllByManufacturer(cleanedManufacturer);
     }
 
+    //GAME API
     public Game saveGame(Game game){
 
         return gameRepository.save(game);
