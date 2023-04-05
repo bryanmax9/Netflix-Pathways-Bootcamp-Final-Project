@@ -12,7 +12,6 @@ Welcome to our Game Store REST API project! Our team has developed a comprehensi
 4. [API Endpoints](#api-endpoints)
 5. [Testing](#testing)
 6. [API Deployed in AWS](#AWS)
-7. [Video Demonstration](video)
 
 
 ## Features
