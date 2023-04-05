@@ -4,6 +4,7 @@ package com.company.gamestore.model;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.*;
+import javax.validation.constraints.Min;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import java.math.BigDecimal;
@@ -35,7 +36,7 @@ public class Console {
     @NotNull(message = "You must supply a Price")
     private BigDecimal price;
 
-    @NotNull(message = "You must supply a Quantity")
+    @Min(value = 1, message = "You must supply a Quantity.")
     private int quantity;
 
     public Console(){
