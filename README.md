@@ -18,6 +18,7 @@ Welcome to our Game Store REST API project! Our team has developed a comprehensi
 
 Here is the Group Video demonstration:
 
+https://user-images.githubusercontent.com/69496341/230510681-386dafe9-b661-47cf-9ee1-be9287a3b1d9.mp4
 
 ## Slides
 
