@@ -11,8 +11,17 @@ Welcome to our Game Store REST API project! Our team has developed a comprehensi
 3. [Getting Started](#getting-started)
 4. [API Endpoints](#api-endpoints)
 5. [Testing](#testing)
-6. [API Deployed in AWS](#AWS)
+6. [API](#aws)
 
+
+## Video
+
+Here is the Group Video demonstration:
+
+
+## Slides
+
+Slides Link: https://docs.google.com/presentation/d/15iolIzsNPzu-NSCAuovEP-qNe2cyM0wTaIasdpNrU80/edit?usp=sharing
 
 ## Features
 
@@ -89,9 +98,7 @@ mvn test
 Here is the link for the AWS deployed API!:
 http://gamestore-env.eba-6mpumf5p.us-east-2.elasticbeanstalk.com/
 
-## Video
 
-Here is the Group Video demonstration:
 
 
 
