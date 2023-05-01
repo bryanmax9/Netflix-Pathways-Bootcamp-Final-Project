@@ -95,11 +95,6 @@ mvn test
 ```
 
 
-## AWS
-Here is the link for the AWS deployed API!:
-http://gamestore-env.eba-6mpumf5p.us-east-2.elasticbeanstalk.com/
-
-
 
 
 
